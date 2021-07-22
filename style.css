@@ -3,6 +3,14 @@ body{
     background-color: rgb(93, 115, 126);
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(218, 255, 239);
+}
+
 #main-content{
     background-color: rgb(218, 255, 239);
 }
