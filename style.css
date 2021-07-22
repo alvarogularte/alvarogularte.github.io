@@ -1,0 +1,30 @@
+body{
+    font-family: helvetica, sans-serif;
+    background-color: rgb(93, 115, 126);
+}
+
+#main-content{
+    background-color: rgb(218, 255, 239);
+}
+
+#titulo{
+    font-family: cursive;
+}
+
+#descricao{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#descricao strong{
+    font-style: italic;
+}
+
+.first{
+    font-size: 1.2em;
+}
+.second{
+    font-size: 1.1em;
+}
+.third{
+    font-size: 1.15em;
+}
