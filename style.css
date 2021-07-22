@@ -1,6 +1,6 @@
 body{
     font-family: helvetica, sans-serif;
-    background-color: rgb(93, 115, 126);
+    background-color: rgb(148, 170, 180);
 }
 
 a{
@@ -35,4 +35,20 @@ a:hover{
 }
 .third{
     font-size: 1.15em;
+}
+
+.picture{
+    border-radius: 15px;
+}
+
+.button{
+    background-color: #709290;
+    padding: 15px 30px;
+    line-height: 50px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.button:hover{
+    background: #abccbe;
 }
